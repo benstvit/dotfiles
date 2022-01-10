@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ben.saintviteux@gmail.com
+	name = Benjamin Saint Viteux
